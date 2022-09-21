@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Marks{
+public class MarksE2{
 	public static void main(String[] args){
 	Scanner console = new Scanner(System.in);
 	int[] arr = new int[10];
