@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Calculator{
+public class CalculatorE2{
   public static void main(String[] args){
       double n1,n2,result;
       char op;
