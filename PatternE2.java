@@ -5,11 +5,12 @@ public class PatternE2{
 		System.out.print("Enter the number of rows: ");
 		int n = sc.nextInt();
 		int i,j=0;
-		for(i=0;i<n;i++){
-			for(j=2*i+1;j>0;j--){
-				System.out.print("* ");
-			}
-		System.out.println();
-		}
+		for(i=0;i<n;i++)
+		{
+		  for(j=2*i+1;j>0;j--){
+		    System.out.print("* ");
+		  }
+		  System.out.println();
+	        }
 	}
 }
